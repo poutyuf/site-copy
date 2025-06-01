@@ -4,6 +4,7 @@ import sys
 import subprocess
 import json
 import random
+import aiohttp
 from typing import List, Dict, Optional
 
 class ProxyManager:
