@@ -251,8 +251,8 @@ from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes, CallbackQueryHandler, MessageHandler, filters, ConversationHandler
 
 # Telegram bot token
-TELEGRAM_BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN")  # Ortam değişkeninden oku
-ADMIN_IDS = [int(id) for id in os.environ.get("ADMIN_IDS", "").split(",") if id]  # Admin ID'leri
+TELEGRAM_BOT_TOKEN = os.environ.get("8196171886:AAGi2cs8hp-triUyHIIizMneURiDrdNJcks")  # Ortam değişkeninden oku
+ADMIN_IDS = [int(id) for id in os.environ.get("5244373899", "7029903911").split(",") if id]  # Admin ID'leri
 
 from telegram import InlineKeyboardButton, InlineKeyboardMarkup
 from collections import defaultdict
