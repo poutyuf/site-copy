@@ -1,0 +1,11 @@
+requests
+bs4
+fake_useragent
+aiohttp
+aiofiles
+python-telegram-bot
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+google-api-python-client
+googlesearch-python
